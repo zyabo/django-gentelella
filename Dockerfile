@@ -1,4 +1,4 @@
-FROM python:3.11
+FROM python:3.7
 MAINTAINER @Jijeesh < https://github.com/jijeesh >
 ENV PYTHONUNBUFFERED 1
 COPY . /django-gentelella/
